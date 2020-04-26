@@ -5,7 +5,6 @@ using UnityEngine.SceneManagement;
 
 public class MenuScene : MonoBehaviour
 {
-    float loadingSceneIndex=1;
     public void OnPlayButtonPressed()
     {
         SceneManager.LoadScene(1);

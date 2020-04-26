@@ -12,6 +12,6 @@ EditorBuildSettings:
     path: Assets/Scenes/AsyncLoadingScene.unity
     guid: 6732a7dc065f61c4cbf1a5ccb568d96d
   - enabled: 1
-    path: Assets/Scenes/Scene_Lvl-01.unity
+    path: Assets/Scenes/Scene_Lvl01.unity
     guid: c6553a16b448e9142af868f525c2ded0
   m_configObjects: {}
